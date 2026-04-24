@@ -89,7 +89,12 @@ Main.java
 
 ## 📸 Screenshots
 
-*(Add your screenshots inside a `screenshots/` folder)*
+
+<img src="https://github.com/user-attachments/assets/d6a79efc-9e0c-480d-9f9a-241dc47846f6" />
+
+<img src="https://github.com/user-attachments/assets/44427e29-e060-46e7-a7a6-fa0807ec9c1d" />
+
+<img src="https://github.com/user-attachments/assets/5e7c626b-d3c6-420e-b42a-92406042b8a1" />
 
 
 

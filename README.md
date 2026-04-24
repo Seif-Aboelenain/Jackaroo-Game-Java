@@ -102,12 +102,15 @@ Main.java
 
 ## 👨‍💻 My Work
 
+## 👨‍💻 My Work
+
+* Developed as part of a **team of 4**
 * Implemented core classes: **Player, Board, Card, Marble**
 * Built game logic for **movement validation, swapping, and traps**
 * Developed **custom exception handling system**
-* Implemented CPU player logic
+* Implemented **CPU player logic**
 * Designed project using **OOP principles**
-* Built JavaFX GUI for gameplay
+* Built **JavaFX GUI** for gameplay
 
 ---
 
